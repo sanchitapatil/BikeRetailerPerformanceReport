@@ -29,7 +29,7 @@ To make the data understandable and accessible, I used Excel to create a dynamic
 
 Excel Dashboard- https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Bike_Stores_analysis_.xlsx
 
-Tableau Dashboard- https://public.tableau.com/views/Real_Estate_Sales_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Tableau Dashboard- https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 Key Technologies/Software Used:
