@@ -18,11 +18,19 @@ With the above data, I proceeded to perform analysis. I wrote complex SQL querie
 Please refer to the script below - 
 https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Scripts/SQL_Script
 
-6. Interpretation of Data:
-Once the data was analyzed, I derived meaningful insights. These insights included total revenue, revenue per store, revenue per bicycle category, monthly revenue trends, revenue per state, revenue per sales representative, top 5 customers, and revenue per brand. The challenge here was to transform raw data into actionable insights.
+4. Interpretation of Data:
+I connect Excel with SQL Server and extracted the above data.Once the data was analyzed, I derived meaningful insights. These insights included total revenue, revenue per store, revenue per bicycle category, monthly revenue trends, revenue per state, revenue per sales representative, top 5 customers, and revenue per brand. The challenge here was to transform raw data into actionable insights.
 
-7. Presenting the Findings:
-To make the data understandable and accessible, I used Excel to create a dynamic executive dashboard. Key Performance Indicators (KPIs) were highlighted, allowing management to quickly grasp the performance metrics. I also utilized Tableau to enhance the visualization and create interactive dashboards for deeper exploration.
+Please refer to the below file where I have created all the necessary Pivot Tables indicating the KPI's
+https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Bike_Stores_analysis_.xlsx
+
+5. Presenting the Findings:
+To make the data understandable and accessible, I used Excel to create a dynamic executive dashboard. Key Performance Indicators (KPIs) were highlighted, allowing management to quickly grasp the performance metrics. I also utilized Tableau by connecting to to the above mentioned excel file to enhance the visualization and create interactive dashboards for deeper exploration.
+
+Excel Dashboard-
+
+Tableau Dashboard-
+
 
 Key Technologies/Software Used:
 
