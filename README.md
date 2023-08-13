@@ -25,17 +25,16 @@ To make the data understandable and accessible, I used Excel to create a dynamic
 Key Technologies Used:
 
 SQL (Structured Query Language):
-
 SQL was essential for extracting and transforming data from the database.
 I wrote complex SQL queries to join and consolidate data from multiple tables.
 This allowed me to perform in-depth analysis and extract valuable insights.
-Excel:
 
+Excel:
 I imported the SQL-generated data into Excel for further processing.
 Excel was used to create a dynamic executive dashboard with various KPIs.
 The dashboard provided an overview of performance metrics and trends.
-Tableau:
 
+Tableau:
 Tableau was employed to create interactive and dynamic visualizations.
 I connected SQL-generated Excel data to Tableau to enhance data exploration.
 The Tableau dashboards added an extra layer of interactivity and insight.
