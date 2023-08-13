@@ -1,6 +1,10 @@
-# BikeRetailerPerformanceReport
-"Revamped bicycle retail insights: Merged complex data, SQL analysis, Excel dashboards &amp; Tableau visuals for 2016-2018 performance. Actionable business decisions powered by data."
+# Bike Retailer Performance Report
 
+**DEMO**
+Tableau Dashboard- https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+"Revamped bicycle retail insights: Merged complex data, SQL analysis, Excel dashboards &amp; Tableau visuals for 2016-2018 performance. Actionable business decisions powered by data."
 
 Project Overview: Comprehensive Performance Report for Bicycle Retailer (2016-2018)
 
@@ -29,7 +33,6 @@ To make the data understandable and accessible, I used Excel to create a dynamic
 
 Excel Dashboard- https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Bike_Stores_analysis_.xlsx
 
-Tableau Dashboard- https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 Key Technologies/Software Used:
