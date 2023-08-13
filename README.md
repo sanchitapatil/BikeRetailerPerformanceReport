@@ -27,9 +27,9 @@ https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Bike_St
 5. Presenting the Findings:
 To make the data understandable and accessible, I used Excel to create a dynamic executive dashboard. Key Performance Indicators (KPIs) were highlighted, allowing management to quickly grasp the performance metrics. I also utilized Tableau by connecting to to the above mentioned excel file to enhance the visualization and create interactive dashboards for deeper exploration.
 
-Excel Dashboard-
+Excel Dashboard- https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Bike_Stores_analysis_.xlsx
 
-Tableau Dashboard-
+Tableau Dashboard- https://public.tableau.com/views/Real_Estate_Sales_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 Key Technologies/Software Used:
