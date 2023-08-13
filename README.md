@@ -10,21 +10,22 @@ As a data analyst at a bicycle retailer with multiple locations, I was tasked wi
 2. Collecting and Gathering Data:
 I began by extracting data from the company's database. This involved pulling information from eight separate tables, including sales orders, customers, products, categories, stores, staffs, brands, and stocks. The challenge here was dealing with diverse datasets spread across multiple tables.
 
-3. Cleaning the Data:
+
+4. Cleaning the Data:
 The collected data was likely messy and inconsistent. I had to preprocess and clean the data, addressing issues like missing values, duplicates, and inconsistencies. This step is crucial for accurate and meaningful analysis.
 
-4. Analyzing the Data:
+5. Analyzing the Data:
 With clean data, I proceeded to perform analysis. I wrote complex SQL queries involving direct and indirect joins to connect the various tables. This was a significant challenge due to the complexity of the data structure and the need to retrieve specific information for analysis.
 
-5. Interpretation of Data:
+6. Interpretation of Data:
 Once the data was analyzed, I derived meaningful insights. These insights included total revenue, revenue per store, revenue per bicycle category, monthly revenue trends, revenue per state, revenue per sales representative, top 5 customers, and revenue per brand. The challenge here was to transform raw data into actionable insights.
 
-6. Presenting the Findings:
+7. Presenting the Findings:
 To make the data understandable and accessible, I used Excel to create a dynamic executive dashboard. Key Performance Indicators (KPIs) were highlighted, allowing management to quickly grasp the performance metrics. I also utilized Tableau to enhance the visualization and create interactive dashboards for deeper exploration.
 
-Key Technologies Used:
+Key Technologies/Software Used:
 
-**SQL (Structured Query Language):**
+**SQL (Structured Query Language): Microsoft SQL Server**
 SQL was essential for extracting and transforming data from the database.
 I wrote complex SQL queries to join and consolidate data from multiple tables.
 This allowed me to perform in-depth analysis and extract valuable insights.
