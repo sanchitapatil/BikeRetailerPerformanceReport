@@ -1,5 +1,5 @@
 # Bike Retailer Performance Report 
-<a href="https://www.google.com/](https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"> **DEMO** </a>
+<a href="https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"> **DEMO** </a>
 
 "Revamped bicycle retail insights: Merged complex data, SQL analysis, Excel dashboards &amp; Tableau visuals for 2016-2018 performance. Actionable business decisions powered by data."
 
