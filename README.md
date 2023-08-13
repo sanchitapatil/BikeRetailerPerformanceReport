@@ -1,6 +1,12 @@
 # Bike Retailer Performance Report 
 <a href="https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"> **DEMO** </a>
 
+Key Technologies/Software Used:
+
+**SQL (Structured Query Language): Microsoft SQL Server** - Data extraction and transformation
+**Excel:** - Excel was used to create a dynamic executive dashboard with various KPIs.
+**Tableau:** - Tableau was employed to create interactive and dynamic visualizations.
+
 "Revamped bicycle retail insights: Merged complex data, SQL analysis, Excel dashboards &amp; Tableau visuals for 2016-2018 performance. Actionable business decisions powered by data."
 
 Project Overview: Comprehensive Performance Report for Bicycle Retailer (2016-2018)
@@ -30,24 +36,6 @@ To make the data understandable and accessible, I used Excel to create a dynamic
 
 Excel Dashboard- https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Bike_Stores_analysis_.xlsx
 
-
-
-Key Technologies/Software Used:
-
-**SQL (Structured Query Language): Microsoft SQL Server**
-SQL was essential for extracting and transforming data from the database.
-I wrote complex SQL queries to join and consolidate data from multiple tables.
-This allowed me to perform in-depth analysis and extract valuable insights.
-
-**Excel:**
-I imported the SQL-generated data into Excel for further processing.
-Excel was used to create a dynamic executive dashboard with various KPIs.
-The dashboard provided an overview of performance metrics and trends.
-
-**Tableau:**
-Tableau was employed to create interactive and dynamic visualizations.
-I connected SQL-generated Excel data to Tableau to enhance data exploration.
-The Tableau dashboards added an extra layer of interactivity and insight.
 
 **Most Difficult Challenge Faced:**
 The most challenging aspect of this project was likely dealing with the complexity of joining data from eight separate tables. The process required a deep understanding of the database structure and careful consideration of how to link the data correctly. This challenge demanded not only technical skills but also critical thinking and problem-solving abilities.
