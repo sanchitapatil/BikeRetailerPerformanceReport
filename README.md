@@ -10,6 +10,7 @@ As a data analyst at a bicycle retailer with multiple locations, I was tasked wi
 2. Collecting and Gathering Data:
 I began by extracting data from the company's database. This involved pulling information from eight separate tables, including sales orders, customers, products, categories, stores, staffs, brands, and stocks. The challenge here was dealing with diverse datasets spread across multiple tables.
 
+Please refer to the scripts for tables creation and data insertion in SQL Server - Scripts/Bicycle_revenue_KPI_data.sql
 
 4. Cleaning the Data:
 The collected data was likely messy and inconsistent. I had to preprocess and clean the data, addressing issues like missing values, duplicates, and inconsistencies. This step is crucial for accurate and meaningful analysis.
