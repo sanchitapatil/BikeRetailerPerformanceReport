@@ -15,6 +15,9 @@ Please refer to the scripts for tables creation and data insertion in SQL Server
 3. Analyzing the Data:
 With the above data, I proceeded to perform analysis. I wrote complex SQL queries involving direct and indirect joins to connect the various tables. This was a significant challenge due to the complexity of the data structure and the need to retrieve specific information for analysis.
 
+Please refer to the script below - 
+https://github.com/sanchitapatil/BikeRetailerPerformanceReport/blob/main/Scripts/SQL_Script
+
 6. Interpretation of Data:
 Once the data was analyzed, I derived meaningful insights. These insights included total revenue, revenue per store, revenue per bicycle category, monthly revenue trends, revenue per state, revenue per sales representative, top 5 customers, and revenue per brand. The challenge here was to transform raw data into actionable insights.
 
