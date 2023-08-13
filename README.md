@@ -1,8 +1,4 @@
-# Bike Retailer Performance Report
-
-**DEMO**
-Tableau Dashboard- https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
+# Bike Retailer Performance Report - demo - Tableau Dashboard- https://public.tableau.com/views/Bike_Retailer_Performance_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 "Revamped bicycle retail insights: Merged complex data, SQL analysis, Excel dashboards &amp; Tableau visuals for 2016-2018 performance. Actionable business decisions powered by data."
 
