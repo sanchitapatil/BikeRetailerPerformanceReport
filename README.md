@@ -24,24 +24,24 @@ To make the data understandable and accessible, I used Excel to create a dynamic
 
 Key Technologies Used:
 
-SQL (Structured Query Language):
+**SQL (Structured Query Language):**
 SQL was essential for extracting and transforming data from the database.
 I wrote complex SQL queries to join and consolidate data from multiple tables.
 This allowed me to perform in-depth analysis and extract valuable insights.
 
-Excel:
+**Excel:**
 I imported the SQL-generated data into Excel for further processing.
 Excel was used to create a dynamic executive dashboard with various KPIs.
 The dashboard provided an overview of performance metrics and trends.
 
-Tableau:
+**Tableau:**
 Tableau was employed to create interactive and dynamic visualizations.
 I connected SQL-generated Excel data to Tableau to enhance data exploration.
 The Tableau dashboards added an extra layer of interactivity and insight.
-Most Difficult Challenge Faced:
 
+**Most Difficult Challenge Faced:**
 The most challenging aspect of this project was likely dealing with the complexity of joining data from eight separate tables. The process required a deep understanding of the database structure and careful consideration of how to link the data correctly. This challenge demanded not only technical skills but also critical thinking and problem-solving abilities.
 
-In conclusion, this project showcases my expertise in data analysis, SQL querying, data preprocessing, Excel dashboarding, and Tableau visualization. By overcoming the challenge of connecting and analyzing data from multiple tables, I was able to provide management with a comprehensive and insightful performance report that could drive informed decisions.
+**In conclusion**, this project showcases my expertise in data analysis, SQL querying, data preprocessing, Excel dashboarding, and Tableau visualization. By overcoming the challenge of connecting and analyzing data from multiple tables, I was able to provide management with a comprehensive and insightful performance report that could drive informed decisions.
 
 This project demonstrates my ability to handle complex data scenarios, use multiple tools to extract insights, and effectively present findings in a visually engaging manner.
