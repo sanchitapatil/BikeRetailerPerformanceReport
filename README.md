@@ -3,9 +3,9 @@
 
 Key Technologies/Software Used:
 
-**SQL (Structured Query Language): Microsoft SQL Server** - Data extraction and transformation
-**Excel:** - Excel was used to create a dynamic executive dashboard with various KPIs.
-**Tableau:** - Tableau was employed to create interactive and dynamic visualizations.
+1. **SQL (Structured Query Language): Microsoft SQL Server** - Data extraction and transformation
+2. **Excel:** - Excel was used to create a dynamic executive dashboard with various KPIs.
+3. **Tableau:** - Tableau was employed to create interactive and dynamic visualizations.
 
 "Revamped bicycle retail insights: Merged complex data, SQL analysis, Excel dashboards &amp; Tableau visuals for 2016-2018 performance. Actionable business decisions powered by data."
 
